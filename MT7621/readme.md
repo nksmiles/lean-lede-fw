@@ -1,1 +1,1 @@
-Firmware for MT7621 Mi Router 3G
+Firmware for MediaTek Ralink MIPS MT7621 based boards.
