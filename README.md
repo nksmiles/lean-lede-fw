@@ -1,2 +1,6 @@
-# lean-lede-fw
-Firmware complied from Lean's LEDE source
+# Firmware compiled from Lean's LEDE source
+Firmware compiled from Lean's LEDE source for personal use.
+
+## Supported Router
+* Xiaomi Router 3G.
+* Nanopi R2C
