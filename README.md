@@ -2,5 +2,5 @@
 Firmware compiled from Lean's LEDE source for personal use.
 
 ## Supported Router
-* Xiaomi Router 3G.
-* Nanopi R2C
+* Xiaomi Mi Router 3g
+* Friendlyarm Nanopi R2C
