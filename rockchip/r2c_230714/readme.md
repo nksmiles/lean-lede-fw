@@ -3,6 +3,7 @@
 For non-bridged modem (dial on modem), modify /etc/config/dhcp to relay ipv6
 
 ··
+
 config dhcp 'lan'
     ......
     option ra 'relay'
@@ -15,4 +16,5 @@ config dhcp 'wan6'
     option ra 'relay'
     option ndp 'relay'
     option master '1'
+
 ··
