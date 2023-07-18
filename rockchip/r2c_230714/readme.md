@@ -1,6 +1,6 @@
 # Add ipv6helper to support IPv6.
 
-For non-bridged modem (dial on modem), modify /etc/config/dhcp to relay ipv6
+For non-bridged optical modem (dial on optical modem), modify /etc/config/dhcp to relay ipv6
 
 ```
 config dhcp 'lan'
