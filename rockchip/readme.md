@@ -1,3 +1,3 @@
 # Firmware for Rockchip hardware
 
-Firmware for R2S etc. can be found on github easily, such not compiled.
+Firmware for R2C / R2S.
