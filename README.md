@@ -4,7 +4,8 @@ Firmware compiled from Lean's LEDE source for personal use.
 ## Supported Router 
 * Xiaomi Mi Router 3g 
 * FriendlyARM Nanopi R2C 
-* FriendlyARM Nanopi R2S 
+* FriendlyARM Nanopi R2S
+* FriendlyARM Nanopi R5C 
 
 ## Special Thanks 
 * [Lean's LEDE source](https://github.com/coolsnowwolf/lede)
