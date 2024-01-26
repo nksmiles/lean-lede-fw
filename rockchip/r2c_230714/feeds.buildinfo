@@ -1,7 +1,0 @@
-src-git packages https://github.com/coolsnowwolf/packages^5ffee92
-src-git luci https://github.com/coolsnowwolf/luci^26d16e6
-src-git routing https://github.com/coolsnowwolf/routing^160eae1
-src-git telephony https://git.openwrt.org/feed/telephony.git^bcf4d2a
-src-git PWpackages https://github.com/xiaorouji/openwrt-passwall.git^bd5b262
-src-git PWluci https://github.com/xiaorouji/openwrt-passwall.git^b1f24d0
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git^9a184a0
